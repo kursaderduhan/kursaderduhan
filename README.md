@@ -20,7 +20,6 @@
 </div>
 <div>
    
-<img align='right' height='120' style="margin-right:20px" src='browser-coding-svgrepo-com.svg' alt='Image 1'>
 
 ```tsx
 import React from "react";
@@ -36,9 +35,6 @@ const Profile = () => {
     
 export default Profile;
 ```
-
-<img align='left' height='120' style="margin-left:20px" src='browser-computing-svgrepo-com.svg' alt='Image 2'>
-
 
 ```tsx
 (function repeat() {
